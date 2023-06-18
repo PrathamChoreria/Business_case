@@ -1,3 +1,3 @@
 # Business_case
 
-Try to analyze the data leading up to the Volkswagen buyout of Porsche.Compare what models describe the stock best(before and after each announcement).Models such as Auto-Arima is used for the case.
+Conducted a comprehensive analysis of the stock market during the 2008 Volkswagen-Porsche saga, examining the market dynamics surrounding the Volkswagen buyout of Porsche .Used AutoArima and Sarimax models to understand and analyze the trends in time series data.
